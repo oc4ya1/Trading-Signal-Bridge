@@ -1,4 +1,5 @@
 # Trading Signal Bridge
+https://github.com/oc4ya1/Trading-Signal-Bridge
 
 Проект по созданию торгового моста между MetaTrader 5, MySQL и C#.
 
